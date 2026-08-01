@@ -12,3 +12,4 @@
 /Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/obj/Debug/net10.0/ConsoleLearnCSharp.pdb
 /Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/obj/Debug/net10.0/ConsoleLearnCSharp.genruntimeconfig.cache
 /Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/obj/Debug/net10.0/ref/ConsoleLearnCSharp.dll
+/Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/obj/Debug/net10.0/ConsoleLearnCSharp.sourcelink.json
