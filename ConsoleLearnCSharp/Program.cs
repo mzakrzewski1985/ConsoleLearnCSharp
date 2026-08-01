@@ -16,8 +16,8 @@ namespace ConsoleLearnCSharp
             string? answerValue;
             int answer;
             
-            double a = random.Next(1, 10);
-            double b = random.Next(1, 10);
+            int a = random.Next(1, 10);
+            int b = random.Next(1, 10);
 
             do
             {
