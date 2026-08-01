@@ -1,0 +1,14 @@
+/Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/bin/Debug/net10.0/ConsoleLearnCSharp
+/Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/bin/Debug/net10.0/ConsoleLearnCSharp.deps.json
+/Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/bin/Debug/net10.0/ConsoleLearnCSharp.runtimeconfig.json
+/Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/bin/Debug/net10.0/ConsoleLearnCSharp.dll
+/Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/bin/Debug/net10.0/ConsoleLearnCSharp.pdb
+/Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/obj/Debug/net10.0/ConsoleLearnCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/obj/Debug/net10.0/ConsoleLearnCSharp.AssemblyInfoInputs.cache
+/Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/obj/Debug/net10.0/ConsoleLearnCSharp.AssemblyInfo.cs
+/Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/obj/Debug/net10.0/ConsoleLearnCSharp.csproj.CoreCompileInputs.cache
+/Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/obj/Debug/net10.0/ConsoleLearnCSharp.dll
+/Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/obj/Debug/net10.0/refint/ConsoleLearnCSharp.dll
+/Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/obj/Debug/net10.0/ConsoleLearnCSharp.pdb
+/Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/obj/Debug/net10.0/ConsoleLearnCSharp.genruntimeconfig.cache
+/Users/fullstack_developer/Net/ConsoleLearnCSharp/ConsoleLearnCSharp/obj/Debug/net10.0/ref/ConsoleLearnCSharp.dll
