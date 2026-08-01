@@ -4,7 +4,7 @@ namespace ConsoleLearnCSharp
 {
     public static class Program
     {
-        public static void Main(string[] arg)
+        public static void Main(string[] args)
         {
             Random random = new Random();
             Math math = new Math();
@@ -34,7 +34,7 @@ namespace ConsoleLearnCSharp
             Console.WriteLine("Rozwiąż zadanie");
             Console.WriteLine($"Liczba {a} + {b} = ?");
 
-            double currentResults = math.Add(a, b);
+            int currentResults = math.Add(a, b);
 
             do
             {
@@ -44,6 +44,15 @@ namespace ConsoleLearnCSharp
 
             Console.WriteLine($"Your answer: {answer}");
             Console.WriteLine($"Correct answer: {currentResults}");
+            
+            if (answer == currentResults)
+            {
+                Console.WriteLine("You are correct!");
+            }
+            else
+            {
+                Console.WriteLine("You are wrong!");
+            }
         }
     }
 }
