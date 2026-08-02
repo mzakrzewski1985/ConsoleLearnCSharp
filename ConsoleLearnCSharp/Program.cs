@@ -31,8 +31,8 @@ namespace ConsoleLearnCSharp
                 ageValue = Console.ReadLine();
             } while(string.IsNullOrEmpty(ageValue) || !int.TryParse(ageValue, out age));
             
-            Console.WriteLine("Rozwiąż zadanie");
-            Console.WriteLine($"Liczba {a} + {b} = ?");
+            Console.WriteLine("Solve the task");
+            Console.WriteLine($"Number {a} + {b} = ?");
 
             int currentResults = calculator.Add(a, b);
 
