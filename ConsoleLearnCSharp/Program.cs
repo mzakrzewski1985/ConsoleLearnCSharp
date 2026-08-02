@@ -23,7 +23,7 @@ namespace ConsoleLearnCSharp
             {
                 Console.Write("Enter your name: ");
                 name = Console.ReadLine();
-            } while (string.IsNullOrEmpty(name));
+            } while (string.IsNullOrWhiteSpace(name));
 
             do
             {
