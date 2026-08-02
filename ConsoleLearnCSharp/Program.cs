@@ -29,7 +29,7 @@ namespace ConsoleLearnCSharp
             {
                 Console.Write("Enter your age: ");
                 ageValue = Console.ReadLine();
-            } while(string.IsNullOrEmpty(ageValue) || !int.TryParse(ageValue, out age));
+            } while(string.IsNullOrWhiteSpace(ageValue) || !int.TryParse(ageValue, out age));
             
             Console.WriteLine("Solve the task");
             Console.WriteLine($"Number {a} + {b} = ?");
@@ -40,7 +40,7 @@ namespace ConsoleLearnCSharp
             {
                 Console.Write("Enter your answer: ");
                 answerValue = Console.ReadLine();
-            } while (string.IsNullOrEmpty(answerValue) || !int.TryParse(answerValue, out answer));
+            } while (string.IsNullOrWhiteSpace(answerValue) || !int.TryParse(answerValue, out answer));
 
             Console.WriteLine($"Your answer: {answer}");
             Console.WriteLine($"Correct answer: {currentResults}");
