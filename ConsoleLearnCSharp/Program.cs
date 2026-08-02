@@ -7,7 +7,7 @@ namespace ConsoleLearnCSharp
         public static void Main(string[] args)
         {
             Random random = new Random();
-            Math math = new Math();
+            Calculator calculator = new Calculator();
             
             int age;
             string? ageValue;
@@ -34,7 +34,7 @@ namespace ConsoleLearnCSharp
             Console.WriteLine("Rozwiąż zadanie");
             Console.WriteLine($"Liczba {a} + {b} = ?");
 
-            int currentResults = math.Add(a, b);
+            int currentResults = calculator.Add(a, b);
 
             do
             {
